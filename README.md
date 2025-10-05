@@ -5,9 +5,9 @@
   <i>Java / Python | Spring Boot | AI | 지도 기반 서비스</i>
 </p>
 
-<!-- ✨ Typing Animation (한글 폰트 개선 + 문구 수정) -->
+<!-- ✨ Typing Animation (한글 폰트 + 인코딩) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=18&pause=1000&center=true&vCenter=true&width=520&lines=%EB%B3%B4%EB%8B%A4+%EB%82%98%EC%9D%80+%EC%84%B8%EC%83%81%EC%9D%84+%EB%A7%8C%EB%93%9C%EB%8A%94+%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC+%EA%BF%88%EA%BF%89%EB%8A%94+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4+🌱;%EC%84%B8%EC%83%81%EC%97%90+%EB%8F%84%EC%9B%80%EC%9D%84+%EC%A3%BC%EB%8A%94+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%A7%9C%EA%B3%A0+%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=600&size=18&pause=1000&center=true&vCenter=true&width=560&lines=%EB%B3%B4%EB%8B%A4%20%EB%82%98%EC%9D%80%20%EC%84%B8%EC%83%81%EC%9D%84%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EA%BF%88%EA%BF%89%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%8C%B1%3B%ED%95%AD%EC%83%81%20%EB%B0%B0%EC%9A%B0%EA%B3%A0%20%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%90%98%EA%B8%B0%EA%B9%8C%EC%A7%80%20%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
@@ -69,4 +69,20 @@
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=noopy1&show_icons=true&theme=default&hide_border=true" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?usern
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&theme=default&hide_border=true" />
+  </picture>
+</p>
+
+---
+
+## ☁️ Contact
+📫 준비 중이에요! (곧 이메일과 포트폴리오 링크를 업데이트할 예정입니다.)  
+📍 <i>기술과 사람을 연결하는 따뜻한 백엔드 개발자</i>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:00B3FF&height=100&section=footer"/>
+</p>
+
