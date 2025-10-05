@@ -5,7 +5,7 @@
   <i>Java / Python | Spring Boot | AI | 지도 기반 서비스</i>
 </p>
 
-<!-- ✨ Typing Animation -->
+<!-- ✨ Typing Animation 추가 -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=500&lines=항상+배우고+도전하는+백엔드+개발자입니다+🌱;세상을+조금+더+편리하게+만드는+서비스를+꿈꿉니다+💫" alt="Typing SVG" />
 </p>
@@ -63,14 +63,15 @@
 ---
 
 ## 📊 GitHub Stats
+<!-- 💫 다크모드 자동 대응 추가 -->
 <p align="center">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=noopy1&show_icons=true&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=noopy1&show_icons=true&hide_border=true&theme=default" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=noopy1&show_icons=true&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=noopy1&show_icons=true&theme=default&hide_border=true" />
   </picture>
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&hide_border=true&theme=github_dark" media="(prefers-color-scheme: dark)">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&hide_border=true&theme=default" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&theme=github_dark&hide_border=true" media="(prefers-color-scheme: dark)">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noopy1&layout=compact&theme=default&hide_border=true" />
   </picture>
 </p>
 
@@ -82,6 +83,7 @@
 
 ---
 
+<!-- 💎 Footer Wave 색상 업그레이드 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:00B3FF&height=100&section=footer"/>
 </p>
