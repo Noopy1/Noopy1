@@ -7,7 +7,7 @@
 
 <!-- ✨ Typing Animation 추가 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=500&lines=항상+배우고+도전하는+백엔드+개발자입니다+🌱;세상을+조금+더+편리하게+만드는+서비스를+꿈꿉니다+💫" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=500&lines=%ED%95%AD%EC%83%81%20%EB%B0%B0%EC%9A%B0%EA%B3%A0%20%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%8C%B1;%EC%84%B8%EC%83%81%EC%9D%84%20%EC%A1%B0%EA%B8%88%20%EB%8D%94%20%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EA%BF%88%EA%BF%89%EB%8B%88%EB%8B%A4%20%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
