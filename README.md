@@ -1,6 +1,9 @@
 
 
 <!-- 🌿 HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+AI+%26+Map-based+Service+Lover;Always+learning+something+new+%F0%9F%8C%B1" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi there 👋 I'm <b>noopy1</b>!</h1>
 <p align="center">
   세상을 조금 더 편리하게 만드는 서비스를 꿈꾸는 <b>백엔드 개발자</b>입니다.<br/>
