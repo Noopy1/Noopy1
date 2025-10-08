@@ -41,8 +41,8 @@
 > 지도 기반 정보공유 플랫폼  
 > 사용자가 직접 콘텐츠를 지도 위에 올리고, 관심 지역의 정보를 직관적으로 탐색할 수 있는 서비스  
 
-**기술 스택**  
-`Spring Boot` `Java` `PostgreSQL` `JWT` `Supabase` `Docker`  
+**기술 스택**   
+`Spring Boot` `Java` `PostgreSQL` `JWT` `Supabase` `Docker` `Swagger` `JPA`
 
 ---
 
@@ -51,7 +51,7 @@
 > 유저들이 퀘스트를 수행하고 결과물을 공유하며 성장하는 서비스를 제공합니다.
 
 **기술 스택**  
-`Spring Boot` `PostgreSQL` `JPA` `Swagger` `JWT`
+`Spring Boot` `MySQL` `JPA` `JWT` 
 
 ---
 
@@ -60,7 +60,7 @@
 > 협업과 탐험을 결합한 서비스로, 사용자가 직접 지도를 편집하고 퀘스트를 생성할 수 있습니다.
 
 **기술 스택**  
-`Spring Boot` `PostgreSQL` `Supabase` `Docker` `JWT`
+`Spring Boot` `Java` `PostgreSQL` `JWT` `Supabase` `Docker` `Swagger` `JPA`
 
 ---
 
