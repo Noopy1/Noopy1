@@ -62,6 +62,18 @@
 
 ---
 
+## 🚀 Featured Team Projects
+<p align="center">
+  <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prgrms-be-devcourse&repo=NBE5-6-3-Team04&theme=github_dark&hide_border=true" />
+  </a>
+  <a href="https://github.com/prgrms-be-devcourse/Mapick">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prgrms-be-devcourse&repo=Mapick&theme=github_dark&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 <p align="center">
   <picture>
@@ -79,10 +91,4 @@
 ## ☁️ Contact
 📫 준비 중이에요! (곧 이메일과 포트폴리오 링크를 업데이트할 예정입니다.)  
 📍 <i>기술과 사람을 연결하는 따뜻한 백엔드 개발자</i>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FCF8E,100:00B3FF&height=100&section=footer"/>
-</p>
 
