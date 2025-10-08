@@ -32,40 +32,34 @@
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
 </p>
-
-
 ---
 
 ## 🧩 Projects
-### 🗺 Soobak
-### <a href="https://github.com/SOOBAK-mapick-ver2" target="_blank">🔗 Soobak</a>
+
+### 🗺 <a href="https://github.com/SOOBAK-mapick-ver2" target="_blank">Soobak</a>
 > 지도 기반 정보공유 플랫폼  
 > 사용자가 직접 콘텐츠를 지도 위에 올리고, 관심 지역의 정보를 직관적으로 탐색할 수 있는 서비스  
 
-**기술 스택**   
+**기술 스택**  
 `Spring Boot` `Java` `PostgreSQL` `JWT` `Supabase` `Docker` `Swagger` `JPA`
 
 ---
 
-### 💎 Dev-Quest
-### <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04" target="_blank">🔗 Dev-Quest</a>
+### 💎 <a href="https://github.com/prgrms-be-devcourse/NBE5-6-3-Team04" target="_blank">Dev-Quest</a>
 > 미션 기반 학습/커뮤니티 플랫폼  
 > 유저들이 퀘스트를 수행하고 결과물을 공유하며 성장하는 서비스를 제공합니다.
 
 **기술 스택**  
-`Spring Boot` `MySQL` `JPA` `JWT` 
+`Spring Boot` `MySQL` `JPA` `JWT`
 
 ---
 
-### 🗺 MAPICK
-### <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE" target="_blank">🔗 MAPICK</a>
+### 🌏 <a href="https://github.com/prgrms-web-devcourse-final-project/WEB5_6_GitSunJaeAb_BE" target="_blank">MAPICK</a>
 > 지도 기반 로드맵 & 퀘스트 플랫폼  
 > 협업과 탐험을 결합한 서비스로, 사용자가 직접 지도를 편집하고 퀘스트를 생성할 수 있습니다.
 
 **기술 스택**  
 `Spring Boot` `Java` `PostgreSQL` `JWT` `Supabase` `Docker` `Swagger` `JPA`
-
----
 
 ## 🚀 Featured Team Projects
 <p align="center">
