@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 I'm <b>noopy1</b>!</h1>
 <p align="center">
   보다 나은 세상을 만드는 서비스를 꿈꾸는 <b>백엔드 개발자</b>입니다.<br/>
-  <i>Java / Python | Spring Boot | AI | 지도 기반 서비스</i>
+  <i>Java / Python | Spring Boot | AI </i>
 </p>
 
 <!-- ✨ Typing Animation (한글 폰트 + 인코딩) -->
